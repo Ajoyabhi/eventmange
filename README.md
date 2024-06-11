@@ -18,12 +18,12 @@
 
 # Create a .env file in the root of your server.
 ## Add the following variables:
--host=localhost
--port_db
--user=[your-database-username]
--password=[your-database-password]
--database=event_management
--port_server
+- host=localhost
+- port_db
+- user=[your-database-username]
+- password=[your-database-password]
+- database=event_management
+- port_server
 
 ## Overview
 - The root directory contain both frontend and backend
