@@ -28,8 +28,7 @@
 ## Overview
 - The root directory contain both frontend and backend
 - In server Directory do "npm run dev", This will run both frontend and Backend concurrently.
-
-  - 
+- Db Dump is also there in the root directory
 
 ### Example `.env` File
 
