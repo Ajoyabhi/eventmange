@@ -17,7 +17,7 @@
 # Import the database dump:
 
 # Create a .env file in the root of your server.
-Add the following variables:
+## Add the following variables:
 -host=localhost
 -port_db
 -user=[your-database-username]
@@ -28,8 +28,8 @@ Add the following variables:
 ## Overview
 - The root directory contain both frontend and backend
 - In server Directory do "npm run dev", This will run both frontend and Backend concurrently.
-- For API testing Through Postman
-- - there are 5 routes
+
+  - 
 
 ### Example `.env` File
 
